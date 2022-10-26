@@ -40,6 +40,3 @@ make_voc.py就提供了一个制作voc格式数据的通用套路（核心代码
 
 ## txt2json.py      txt-->json
 该脚本实现从yolo的.txt格式转换到coco的.json格式
-# 具体操作可以参考视频
-
-
